@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = "2016-05-01"
+date = "2016-04-28"
 
 # Project title.
-title = "Juliane Caughron"
+title = "Caroline Oliver"
 
 # Project summary to display on homepage.
-summary = "Graduate researcher"
+summary = "Software developer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "juliane-caughron.jpg"
+image_preview = "caroline-oliver.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["current", "alumni"]`
@@ -28,4 +28,5 @@ caption = ""
 
 +++
 
-Juliane joined the lab in the fall of 2018. She is interested in fish biodiversity with an emphasis on management of the south eastern Atlantic coast.
+Caroline is a software developer in graduate school at the College of Charelston. 
+She is helping to develop the R package mobr and the related shiny app.
