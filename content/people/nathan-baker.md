@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2016-04-20"
+date = "2016-04-24"
 
 # Project title.
-title = "Dan McGlinn"
+title = "Nathan Baker"
 
 # Project summary to display on homepage.
-summary = "Founder"
+summary = "Graduate researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "dan-mcglinn.jpg"
+image_preview = "nathan-baker.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["current", "alumni"]`
-tags = ["current"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Dan studies biodiversity.
+Nathan is interested in fish biodiversity.

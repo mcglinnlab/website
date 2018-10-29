@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = "2016-04-20"
+date = "2016-04-24"
 
 # Project title.
-title = "Dan McGlinn"
+title = "Juliane Caughron"
 
 # Project summary to display on homepage.
-summary = "Founder"
+summary = "Graduate researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "dan-mcglinn.jpg"
+image_preview = "juliane-caughron.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["current", "alumni"]`
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Dan studies biodiversity.
+Juliane joined the lab in the fall of 2018. She is interested in fish biodiversity with an emphasis on management of the south eastern Atlantic coast.
