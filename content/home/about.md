@@ -13,4 +13,4 @@ weight = 5
  
 +++
 
-Weecology is an interdisciplinary ecology research group at the University of Florida. We consist of Morgan Ernest's lab, which studies how ecological systems change through time and has a strong field work focus, and Ethan White's lab which uses computational and statistical methods to understand ecological systems using large ecological and environmental datasets. We do cutting edge research, collect and publish large open datasets, develop open source software, build websites, train scientists in computational tools, and generally try to make science a better, more efficient, more diverse and inclusive place.
+The McGlinn lab is an ecology research group at the College of Charleston. We address a wide range of questions on the spatial and temporal structure of biodiversity using a combination of macroecological analyses, field studies, and mathematical models. We are passionate about testing and applying basic theory to further conservation priorities. We are advocates for more a open, diverse, and inclusive scientific community.

@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2016-04-22"
+date = "2016-04-27"
 
 # Project title.
-title = "Virnaliz Cruz"
+title = "Dan McGlinn"
 
 # Project summary to display on homepage.
-summary = "MS Student"
+summary = "Founder"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "virnaliz-cruz.jpg"
+image_preview = "dan-mcglinn.jpg"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+# Example: `tags = ["current", "alumni"]`
+tags = ["current"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Virnaliz is interested in the intersection of disease ecology and data science.
+Dan studies biodiversity.

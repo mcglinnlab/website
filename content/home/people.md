@@ -31,15 +31,7 @@ filter_default = 0
 # The "Current" shows current members
 [[filter]]
   name = "Current"
-  tag = ".white-lab, .ernest-lab"
-
-[[filter]]
-  name = "White Lab"
-  tag = ".white-lab"
-
-[[filter]]
-  name = "Ernest Lab"
-  tag = ".ernest-lab"
+  tag = ".current"
 
 [[filter]]
   name = "Alumni"

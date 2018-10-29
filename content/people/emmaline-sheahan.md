@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2016-04-23"
+date = "2016-04-27"
 
 # Project title.
-title = "Ben Weinstein"
+title = "Dan McGlinn"
 
 # Project summary to display on homepage.
-summary = "Postdoc"
+summary = "Undergraduate researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ben-weinstein.jpg"
+image_preview = "emmaline-sheahan.jpg"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+# Example: `tags = ["current", "alumni"]`
+tags = ["current"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-Ben works on converting remote sensing data into ecological information and integrating this information into large scale models.
+Emmy studies sharks

@@ -45,15 +45,15 @@ defaultContentLanguageInSubdir = false
   show_date = false
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Weecology"
-  role = "Interdisciplinary Ecology"
+  name = "McGlinn lab"
+  role = "Biodiversity Research"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -61,8 +61,9 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "contact@weecology.org"
-  address = "Building 150, University of Florida, Gainesville, FL"
+  email = "mcglinndj@cofc.edu"
+  address = "Rita Hollings Science Center (office: 239, lab: 292), College of Charleston, 58 Coming Street, Suite 245-255 Charleston, SC 29401 USA"
+  phone = "843-953-0190"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -215,17 +216,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:contact@weecology.org"
+    link = "mailto:mcglinndj@cofc.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/weecology"
+    link = "//twitter.com/danmcglinn"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/weecology"
+    link = "//github.com/mcglinnlab"
 
 
 # Navigation Links
