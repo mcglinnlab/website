@@ -1,6 +1,6 @@
 +++
 title = "Spatial Scale and Biodiversity"
-date = "2018"
+date = "2018-01-01"
 publication_types = ["2"]
 authors = ["D. J. McGlinn", "M. W. Palmer"]
 publication = "In: Oxford Bibliographies in Ecology"
