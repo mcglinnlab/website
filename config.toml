@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = ""
+title = "McGlinn lab"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-2320026-3"
+googleAnalytics = "UA-58751612-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

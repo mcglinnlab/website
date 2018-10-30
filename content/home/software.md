@@ -15,16 +15,15 @@ weight = 60
 
 +++
 
-We build tools to make doing science easier and more efficient by automating the
-early phases of the data analysis pipeline.
+We collaborate on software for biodiveristy data management, analysis and simulation. 
 
-- [Data Retriever](https://www.data-retriever.org/): A package manager for
-  data. It downloads, cleans, and stores publicly available data, so analysts
+- [Measurement of Biodiversity](https://github.com/MoBiodiv/): A suite of tools for analysing and simulating scale dependence in biodiversity
+    * **mobr** [R](https://github.com/MoBiodiv/mobr) and [Rshiny](https://github.com/MoBiodiv/mobr_app)
+    * **mobsim** [R](https://github.com/MoBiodiv/mobsim) and [Rshiny](https://github.com/MoBiodiv/mobsim_app)
+
+We have worked with our collaborators in the [Weecology lab](https://weecology.org) to develop the R package for the [Data Retriever](https://www.data-retriever.org/): A package manager for data. It downloads, cleans, and stores publicly available data, so analysts
   spend less time managing data, and more time analyzing it. Available
   for
-  [Python](https://github.com/weecology/retriever),
   [R](https://github.com/ropensci/rdataretriever),
-  [Julia](https://github.com/weecology/Retriever.jl), and
-  the [command line](https://github.com/weecology/retriever).
-- [portalr](https://github.com/weecology/portalr): Quickly download, clean, and
-  work with data from the Portal Project.
+
+

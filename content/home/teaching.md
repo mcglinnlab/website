@@ -17,8 +17,6 @@ weight = 60
 
 We are actively involved in training scientists in both ideas and tools.
 
+- Biodiversity, Ecology, and Conservation Biology
+- [Applied Quantiative Methods](dmcglinn.github.io/quant_methods)
 - Software and Data Carpentry Workshops
-- University of Florida R Meetup
-- Data Carpentry for Biologists (semester long course)
-- Biodiversity
-- Ecological Dynamics and Forecasting
