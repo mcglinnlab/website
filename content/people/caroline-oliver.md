@@ -30,3 +30,5 @@ caption = ""
 
 Caroline is a software developer in graduate school at the College of Charelston. 
 She is helping to develop the R package mobr and the related shiny app.
+
+[Caroline's Personal Site](https://caroliver.github.io/
