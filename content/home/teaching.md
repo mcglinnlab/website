@@ -18,5 +18,5 @@ weight = 60
 We are actively involved in training scientists in both ideas and tools.
 
 - Biodiversity, Ecology, and Conservation Biology
-- [Applied Quantiative Methods](dmcglinn.github.io/quant_methods)
+- [Applied Quantiative Methods](https://dmcglinn.github.io/quant_methods)
 - Software and Data Carpentry Workshops
