@@ -1,5 +1,5 @@
 +++
-title = "Mutualism Persistence and Abandonment during the Evolution of the Mycorrhizal Symbiosis"
+title = "Mutualism persistence and abandonment during the evolution of the mycorrhizal symbiosis"
 date = "2016-01-01"
 publication_types = ["2"]
 authors = ["Hafiz Maherali", "Brad Oberle", "Peter F. Stevens", "William K. Cornwell", "Daniel J. McGlinn"]
