@@ -21,6 +21,7 @@ for(i in seq_along(mdfiles)) {
         pages = pdata[grep('_pp.', pdata)]
         pages = gsub("_", "", pages)
         pages = sub("pp. ", "", pages)
+        pages = sub('\"', '', pages)
         urls = pdata[grep('http', pdata)]
         urls = sub('\"', '', urls, fixed = TRUE)
         publication = paste0(title, ", ", vol, pages, "\"")
