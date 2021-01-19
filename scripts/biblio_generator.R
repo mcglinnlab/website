@@ -30,11 +30,11 @@ for(i in seq_along(mdfiles)) {
         my_pub[grep("url_", my_pub)] = paste0('url_custom = [{name = "HTML", url = "',
                                               urls[1], '"}]')
     }
-    # fix Di Franco name issue
-    if (mdfiles[i] == "2019-01-01_blowes_mediterranean_2019.md") {
-        my_pub[5] = sub("{", "", my_pub[5], fixed = TRUE)
-        my_pub[5] = sub("}", "", my_pub[5], fixed = TRUE)
-    }    
+    ## fix Di Franco name issue
+    #if (mdfiles[i] == "2019-01-01_blowes_mediterranean_2019.md") {
+    #    my_pub[5] = sub("{", "", my_pub[5], fixed = TRUE)
+    #    my_pub[5] = sub("}", "", my_pub[5], fixed = TRUE)
+    #}    
     write(my_pub, file = file.path('my-md-folder', mdfiles[i]))
 }
 
