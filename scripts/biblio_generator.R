@@ -14,17 +14,25 @@ for(i in seq_along(mdfiles)) {
         title = pdata[1]
         title = sub("In: ", "_", title)
         title = paste0(title, '_')
-        vol = pdata[2]
-        vol = sub("(", "", vol, fixed = TRUE)
-        vol = sub(")", "", vol, fixed = TRUE)
-        vol = paste0("*", vol, ":*")
+        # is volume specified
+        vol_exists <- grepl('(', pdata[-1], fixed = TRUE)
+        if (any(vol_exists)) {
+            vol = pdata[-1][vol_exists]
+            vol = sub("(", "", vol, fixed = TRUE)
+            vol = sub(")", "", vol, fixed = TRUE)
+            vol = paste0(vol, ":")
+        }
         pages = pdata[grep('_pp.', pdata)]
         pages = gsub("_", "", pages)
         pages = sub("pp. ", "", pages)
         pages = sub('\"', '', pages)
+        pages = sub("--", "-", pages)
         urls = pdata[grep('http', pdata)]
         urls = sub('\"', '', urls, fixed = TRUE)
-        publication = paste0(title, ", ", vol, pages, "\"")
+        if (any(vol_exists))
+            publication = paste0(title, ", ", vol, pages, "\"")
+        else
+            publication = paste0(title, ", ", pages, "\"")
         my_pub[6] = publication
         my_pub = my_pub[-grep("url_", my_pub)[-1]]
         my_pub[grep("url_", my_pub)] = paste0('url_custom = [{name = "HTML", url = "',
