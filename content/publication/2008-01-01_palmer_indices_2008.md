@@ -10,7 +10,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_custom = [{name = "HTML", url = "http://dx.doi.org/10.1890%2F07-0842.1"}]
+url_custom = [{name = "HTML", url = "https://doi.org/10.1890%2F07-0842.1"}]
 math = true
 highlight = true
 [header]
