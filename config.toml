@@ -63,7 +63,7 @@ defaultContentLanguageInSubdir = false
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mcglinndj@cofc.edu"
   address = "Rita Hollings Science Center (office: 239, lab: 292), College of Charleston, 58 Coming Street, Suite 245-255 Charleston, SC 29401 USA"
-  phone = "843-953-0190"
+  phone = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""

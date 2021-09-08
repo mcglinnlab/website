@@ -40,3 +40,22 @@ and insects. Jackon's research interests include avian conservation, land
 management, and community ecology. His thesis will look at how different types
 of disturbance influence bird community composition in ephemeral wetlands, here
 in the lowcountry.
+
+PUBLICATIONS
+
+In Press:
+
+Devin J. Fraleigh, Jackson Barratt Heitmann, Bruce A. Robertson. Ultraviolet
+polarized light pollution and evolutionary traps for aquatic insects. Animal
+Behavior. 2021. https://doi.org/10.1016/j.anbehav.2021.08.006
+
+In Preparation:
+
+Robertson BA, Rothberg O, Barratt Heitmann J, Fraleigh D. Birds use polarized
+light to locate water bodies. For Current Biology.
+
+Robertson BA, Barratt Heitmann J. Polarization properties of solar panels that
+trigger maladaptive water-seeking behavior in wildlife. For Journal of the Royal
+Society Interface.
+
+For Jackson's full CV see [here](/files/heitmann-CV.pdf)
