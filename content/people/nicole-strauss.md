@@ -13,7 +13,7 @@ image_preview = "nicole-strauss.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["current", "alumni"]`
-tags = ["current"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
