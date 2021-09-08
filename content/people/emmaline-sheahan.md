@@ -27,6 +27,7 @@ image = ""
 caption = ""
 
 +++
+![Emmaline Sheahan](/img/emmaline-sheahan.jpg)
 
 Emmaline is an undergraduate at the College of Charleston majoring in marine biology and is expected to graduate in the spring of 2019.
 She plans to get her PhD and specialize in Chondrichthyes with a focus on ecology, evolution, and behavior. 

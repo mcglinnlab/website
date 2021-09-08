@@ -27,6 +27,7 @@ image = ""
 caption = ""
 
 +++
+![Jackson Barratt Heitmann](/img/jackson-barratt-heitmann.jpg)
 
 Jackson joined the lab in 2021. He is a student in the Environmental and
 Sustainability Studies Program (EVSS). He graduated with a BA in Global &
