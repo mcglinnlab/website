@@ -30,10 +30,11 @@ caption = ""
 
 ![Juliane Caughron](/img/juliane-waterfall.jpg)
 
-Juliane joined the lab in the fall of 2018. 
-She is a student in the Marine Biology Graduate Program and is originally from Pylesville, MD.
+Juliane joined the lab in the fall of 2018 and graduated in 2020. 
+She was a student in the Marine Biology Graduate Program and is originally from Pylesville, MD.
 She attended Coastal Carolina University for undergrad where she majored in marine science with minors in biology and applied mathematics.
 During undergraduate she also interned with the fisheries independent
 monitoring group at Florida Fish and Wildlife and the fish ecology group at the Southeast Fisheries Science Center. 
 Her research interests include fisheries independent monitoring programs and fisheries ecology.
-Her thesis will focus on using fisheries data to test theoretical models about biodiversity and ecosystem stability relationships over different spatial scales.
+Her thesis used fisheries data to test theoretical models about biodiversity and ecosystem stability relationships over different spatial scales.
+Here is a link to Juliane's professional website: https://julianecaughron.wordpress.com/ 
