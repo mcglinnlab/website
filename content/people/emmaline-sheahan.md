@@ -6,14 +6,14 @@ date = "2016-04-28"
 title = "Emmaline Sheahan"
 
 # Project summary to display on homepage.
-summary = "Undergraduate researcher"
+summary = "PhD canadiate"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "emmaline-sheahan.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["current", "alumni"]`
-tags = ["current"]
+tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -29,5 +29,8 @@ caption = ""
 +++
 ![Emmaline Sheahan](/img/emmaline-sheahan.jpg)
 
-Emmaline is an undergraduate at the College of Charleston majoring in marine biology and is expected to graduate in the spring of 2019.
-She plans to get her PhD and specialize in Chondrichthyes with a focus on ecology, evolution, and behavior. 
+Emmy was an undergraduate research in the lab who double majored in marine biology and
+philosophy. She graduated in the spring of 2021 after completing her honors thesis
+on the global biodiversity of sharks. She is currently pursuing her PhD at
+the University of Flordia where she is working with Dr. Rob Guralnick and 
+Dr. Gavin Naylor on species distribution modeling of marine organisms. 
