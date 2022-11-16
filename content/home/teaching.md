@@ -19,4 +19,6 @@ We are actively involved in training scientists in both ideas and tools.
 
 - Biodiversity, Ecology, and Conservation Biology
 - [Applied Quantiative Methods](https://dmcglinn.github.io/quant_methods)
+- Botany
 - Software and Data Carpentry Workshops
+
