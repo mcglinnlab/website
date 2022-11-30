@@ -31,7 +31,8 @@ caption = ""
 ![Sam McCauley](/img/samuel-mccauley.jpg)
 
 Sam carried out undergraduate research in the lab on longleaf pine forests 
-and the effect of fire. He pursued a PhD at the University of Idaho and now
+and the effect of fire. He graduated with his BS in Biology with Honors.
+He then pursued a PhD at the University of Idaho and now
 works as a horticulturalist. 
 
 https://smccau.github.io/

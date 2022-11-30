@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-05-01"
+date = "2018-05-01"
 
 # Project title.
 title = "Nathan Baker"
@@ -28,4 +28,5 @@ caption = ""
 
 +++
 
-Nathan is interested in fish biodiversity.
+Nathan is interested in fish biodiversity. He graduated with his master's from
+the GPMB program in 2018.
