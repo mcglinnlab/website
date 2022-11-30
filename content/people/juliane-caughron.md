@@ -6,7 +6,7 @@ date = "2016-05-01"
 title = "Juliane Caughron"
 
 # Project summary to display on homepage.
-summary = "Graduate researcher"
+summary = "Scientist"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "juliane-caughron.jpg"
@@ -30,8 +30,9 @@ caption = ""
 
 ![Juliane Caughron](/img/juliane-waterfall.jpg)
 
-Juliane joined the lab in the fall of 2018 and graduated in 2020. 
-She was a student in the Marine Biology Graduate Program and is originally from Pylesville, MD.
+Juliane is currently a scientist at (South Florida Water Management District)[https://www.linkedin.com/in/juliane-caughron-1059941aa/]
+
+She joined the lab in the fall of 2018 and graduated with her master's from the GPMB program in 2020. 
 She attended Coastal Carolina University for undergrad where she majored in marine science with minors in biology and applied mathematics.
 During undergraduate she also interned with the fisheries independent
 monitoring group at Florida Fish and Wildlife and the fish ecology group at the Southeast Fisheries Science Center. 

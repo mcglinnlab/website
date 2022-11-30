@@ -27,8 +27,10 @@ image = ""
 caption = ""
 
 +++
+![Caroline Oliver](/img/caroline-oliver.jpg)
 
-Caroline is a software developer in graduate school at the College of Charelston. 
-She is helping to develop the R package mobr and the related shiny app.
+Caroline is a software developer. She completed her undergraduate and graduate
+studies at the College of Charleston. 
+She helped to develop the R package mobr and the related shiny app.
 
 [Caroline's Personal Site](https://caroliver.github.io/)

@@ -6,7 +6,7 @@ date = "2016-04-28"
 title = "Samuel McCauley"
 
 # Project summary to display on homepage.
-summary = "Undergraduate researcher"
+summary = "Horticulturalist"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "samuel-mccauley.jpg"
@@ -16,7 +16,7 @@ image_preview = "samuel-mccauley.jpg"
 tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://smccau.github.io/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -27,3 +27,11 @@ image = ""
 caption = ""
 
 +++
+
+![Sam McCauley](/img/samuel-mccauley.jpg)
+
+Sam carried out undergraduate research in the lab on longleaf pine forests 
+and the effect of fire. He pursued a PhD at the University of Idaho and now
+works as a horticulturalist. 
+
+https://smccau.github.io/

@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Nicole Strauss"
 
 # Project summary to display on homepage.
-summary = "Undergraduate researcher"
+summary = "Vet tech"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "nicole-strauss.jpg"
@@ -27,5 +27,12 @@ image = ""
 caption = ""
 
 +++
+![Nicole Strauss](/img/nicole-strauss.jpg)
 
-Nicole is a nature enthusiast, undergrad at college of charleston, vet tech, and HERper. 
+Nicole is a nature enthusiast, undergrad at College of Charleston, vet tech, and HERper. 
+
+She worked as an undergraduate researcher studying ephemeral wetlands and herps.
+
+She is currently working as a vet tech.
+
+Linkedin - https://www.linkedin.com/in/nicole-strauss-31a4ba88/
