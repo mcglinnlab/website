@@ -30,7 +30,7 @@ caption = ""
 
 ![Juliane Caughron](/img/juliane-waterfall.jpg)
 
-Juliane is currently a scientist at (South Florida Water Management District)[https://www.linkedin.com/in/juliane-caughron-1059941aa/]
+Juliane is currently a scientist at [South Florida Water Management District](https://www.linkedin.com/in/juliane-caughron-1059941aa/)
 
 She joined the lab in the fall of 2018 and graduated with her master's from the GPMB program in 2020. 
 She attended Coastal Carolina University for undergrad where she majored in marine science with minors in biology and applied mathematics.

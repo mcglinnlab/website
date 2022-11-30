@@ -16,7 +16,7 @@ image_preview = "ashley-woods.jpg"
 tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.linkedin.com/in/ashley-woods-04b27a124/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -28,6 +28,10 @@ caption = ""
 
 +++
 
-Ashley is interested in marine biology, programming and computer security. 
-She double majored in computer science and marine biology at the College of Charleston. 
-She worked on application in R that makes it easier to retrieve and process data from GBIF, a species occurrence database. She is currently in graduate school at CofC.
+Ashley is interested in marine biology, programming and computer security. She
+double majored in computer science and marine biology at the College of
+Charleston. She worked on application in R that makes it easier to retrieve and
+process data from GBIF, a species occurrence database. She is currently in
+graduate school at CofC.
+
+Linkedin - https://www.linkedin.com/in/ashley-woods-04b27a124/
