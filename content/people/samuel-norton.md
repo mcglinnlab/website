@@ -35,7 +35,7 @@ Environmental Studies program. He received a grant from the USDA to examine the
 usefulness of *Salicornia* (sea pickle) for restoring dredged soil.
 
 Since then he started his own company [Heron Farms](https://www.heronfarms.com/)
-which he calles the world’s first indoor vertical saltwater farm.
+which he calls the world’s first indoor vertical saltwater farm.
 
 News Coverage:
 * https://today.cofc.edu/2022/03/21/heron-farms-sam-norton/
