@@ -16,7 +16,7 @@ image_preview = "emmaline-sheahan.jpg"
 tags = ["alumni"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/emmalinesheahan"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -34,3 +34,5 @@ philosophy. She graduated in the spring of 2021 after completing her honors thes
 on the global biodiversity of sharks. She is currently pursuing her PhD at
 the University of Flordia where she is working with Dr. Rob Guralnick and 
 Dr. Gavin Naylor on species distribution modeling of marine organisms. 
+
+Github - https://github.com/emmalinesheahan
