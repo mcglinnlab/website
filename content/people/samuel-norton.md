@@ -38,6 +38,8 @@ Since then he started his own company [Heron Farms](https://www.heronfarms.com/)
 which he calls the world’s first indoor vertical saltwater farm.
 
 News Coverage:
+
 * https://today.cofc.edu/2022/03/21/heron-farms-sam-norton/
+
 * https://www.forbes.com/pictures/61a67d8742bbf7cb5403d8c8/sam-norton-28-founder-her/?sh=19a2f9eff25f
 
