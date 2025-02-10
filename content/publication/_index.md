@@ -1,5 +1,6 @@
 +++
 title = "Publications"
+subtitle = "[Google Scholar Profile](https://scholar.google.com/citations?user=w9aKu_0AAAAJ&hl)"
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
