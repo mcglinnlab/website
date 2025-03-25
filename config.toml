@@ -214,6 +214,11 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "//scholar.google.com/citations?user=w9aKu_0AAAAJ&hl=en"
+
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:mcglinndj@cofc.edu"
@@ -221,12 +226,14 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/danmcglinn"
+    link = "//bsky.app/profile/danmcglinn.bsky.social"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/mcglinnlab"
+    
+
 
 
 # Navigation Links
