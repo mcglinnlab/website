@@ -16,7 +16,7 @@ image_preview = "isabelle-barnes.jpg"
 tags = ["current"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.linkedin.com/in/isabelle-barnes/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -40,5 +40,7 @@ community ecology. Her thesis will look at what the soundscape of ephemeral
 wetlands can tell us about the drivers of songbird and anuran community
 composition and diversity as well as the efficacy of acoustic and artificial
 intelligence methods.
+
+https://www.linkedin.com/in/isabelle-barnes/
 
 
