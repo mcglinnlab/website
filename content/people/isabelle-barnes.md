@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2025-03-25"
+date = "2022-09-08"
 
 # Project title.
 title = "Isabelle Barnes"
@@ -9,7 +9,7 @@ title = "Isabelle Barnes"
 summary = "Master's Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ansley-williamson.jpg"
+image_preview = "isabelle-barnes.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["current", "alumni"]`
