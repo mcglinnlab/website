@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "McGlinn lab"
+  name = "McGlinn Lab"
   role = "Biodiversity Research"
 
   # Organizations/Affiliations.
@@ -223,13 +223,8 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "//scholar.google.com/citations?user=w9aKu_0AAAAJ&hl=en"
 
-  [[parms.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "//orcid.org/0000-0003-2359-3526"
-
   [[params.social]]
-    icon = "bluesky"
+    icon = "twitter"
     icon_pack = "fa"
     link = "//bsky.app/profile/danmcglinn.bsky.social"
 
