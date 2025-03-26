@@ -27,4 +27,23 @@ image = ""
 caption = ""
 
 +++
-Disturbance can reduce the competitive dominance of certain species, and land-mangers are increasingly using disturbance as a tool to promote diversity using heterogenous disturbance regimes. We tested the efficacy of using heterogenous fire regimes to promote diversity in tallgrass prairie ecosystems, and we found that contrary to current theory soil and climatic variation trumped grassland plant responses to prescribed fire (McGlinn et al. 2010, McGlinn and Palmer in review). Our findings indicate that fine-tuning management using fire in these systems may not be necessary. Currently, the lab is continuing to pursue the role of fire in long-leaf pine forests for understand long-term (20 year) change in plants and herpetofauna (Strauss and McGlinn in prep.). We have studied the role of disturbance in other systems (e.g., microbes, birds) as well (Mirza et al. 2017, Archibald et al. 2018, McGlinn et al. 2010). 
+![Disturbance ecology](/img/mcglinnlab-prescribed-fire.jpg)
+Disturbance can reduce the competitive dominance of certain species, and
+land-mangers are increasingly using disturbance as a tool to promote diversity
+using heterogeneous disturbance regimes. We tested the efficacy of using
+heterogeneous fire regimes to promote diversity in tallgrass prairie ecosystems,
+and we found that contrary to current theory soil and climatic variation trumped
+grassland plant responses to prescribed fire (McGlinn et al. 2010, McGlinn &
+Palmer 2019). Our findings indicate that fine-tuning management using fire in
+these systems may not be necessary. 
+
+Currently, the lab is continuing to pursue the role of fire in long-leaf pine
+forests for understanding how to best manage geographically isolated wetlands
+(Barratt Heitmann et al. 2025, Barnes et al. in prep.). We have successfully
+restablished a population of an endangered fire dependent plant species [Canby's
+dropwort](https://www.youtube.com/watch?v=yGL-Nd8wcMg).
+
+We have studied the role of disturbance in other systems (e.g., microbes, birds)
+as well (Mirza et al. 2017, Archibald et al. 2018, McGlinn et al. 2010).
+
+
