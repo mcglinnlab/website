@@ -13,4 +13,4 @@ weight = 5
  
 +++
 
-The McGlinn lab is an ecology research group at the College of Charleston. We address a wide range of questions on the spatial and temporal structure of biodiversity using a combination of macroecological analyses, field studies, and mathematical models. We are passionate about testing and applying basic theory to further conservation priorities. We are advocates for more a open, diverse, and inclusive scientific community.
+The McGlinn lab is an ecological research group at the College of Charleston. We address a wide range of questions on the spatial and temporal structure of biodiversity using a combination of macroecological analyses, field studies, and mathematical models. We are passionate about testing and applying basic theory to further conservation priorities. We are advocates for more a open, diverse, and inclusive scientific community.
