@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ca3f94f-d75f-4121-a9bd-4137d7360253/deploy-status)](https://app.netlify.com/sites/mcglinnlab/deploys)
+
 # McGlinn Lab Website
 
 Code and files for building the McGlinn lab website
